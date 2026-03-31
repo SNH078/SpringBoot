@@ -71,3 +71,9 @@ Hibernate
 👉 DI is a way to achieve IoC
 
 <img width="314" height="576" alt="image" src="https://github.com/user-attachments/assets/025ad04e-77dd-4fee-adb9-3db4b00cd212" />
+
+---
+
+## Bean 
+<img width="431" height="595" alt="image" src="https://github.com/user-attachments/assets/d1606a5e-f35b-4732-b52d-0e51b60be8c5" />
+
