@@ -45,16 +45,13 @@ addContext() : adds/registers a web application into embedded Apache Tomcat.
 8.  <img width="1398" height="959" alt="image" src="https://github.com/user-attachments/assets/73337921-ab52-4b57-9af1-8edb19b77873" />
 9.  <img width="1495" height="965" alt="image" src="https://github.com/user-attachments/assets/558cb702-a361-4ddf-8937-4847b314a3b2" />
 10. everytime you hit `http://localhost:9090/hello` "hello world1" gets printed on tomacat terminal
-11. 
 
 
 
 
+## note    
+ <img width="267" height="283" alt="image" src="https://github.com/user-attachments/assets/31d41628-6244-4d62-872d-669bead969e4" />
 
-
-
-
-## note   
 <img width="356" height="607" alt="image" src="https://github.com/user-attachments/assets/062b6d88-1f65-44e5-b87c-83e96ebbbfe1" />
 
 <img width="446" height="264" alt="image" src="https://github.com/user-attachments/assets/d5696d10-9fdf-4480-b3c6-04fe699c94f2" />
