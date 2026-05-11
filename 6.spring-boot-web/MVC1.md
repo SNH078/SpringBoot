@@ -48,5 +48,3 @@ need to add controller to handle the request
  <img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/8d163dd2-0173-44b2-8fde-f1204195c5d6" />
 
 - <img width="724" height="235" alt="image" src="https://github.com/user-attachments/assets/3a31951b-4969-468f-a22b-e30278c4447c" />
-
-- <img width="775" height="235" alt="image" src="https://github.com/user-attachments/assets/556e0802-f2f2-4832-9b43-7bfe51b3c8e4" />
